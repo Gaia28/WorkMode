@@ -8,14 +8,17 @@ This script save time when initializing whit one command this programs:
 - Lampp
 - Spotify
 ## How to install?
+
 ``
 git clone 
 ``
 Move the script to your binary directory:
+
 ``
 sudo cp devmode.sh /usr/local/bin/
 ``
 Give execution permition:
+
 ``
 chmod +x devmode.sh
 ``
