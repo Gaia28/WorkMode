@@ -12,15 +12,11 @@ This script save time when initializing whit one command this programs:
 ``
 git clone https://github.com/Gaia28/WorkMode.git
 ``
-- Move the script to your binary directory:
-
+- Move the script to your binary directory: ``
+ sudo cp devmode.sh /usr/local/bin/
 ``
-sudo cp devmode.sh /usr/local/bin/
-``
-- Give execution permition:
-
-``
-chmod +x devmode.sh
+- Give execution permition: ``
+ chmod +x devmode.sh
 ``
 ## How to use?
 Run ``devmode.sh`` on terminal
